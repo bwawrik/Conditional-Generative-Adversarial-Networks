@@ -8,6 +8,7 @@ Some Notes
 - my training set are images of clouds scraped from google using the key word 'cloud'. I don't include the code how to do this here
 - I deleted all images that contained text
 - a manually modified a few images to exclude trees or the ground
+- runtime for 75 epochs was at ~8 hours
 
 ![clouds](https://github.com/bwawrik/Conditional-Generative-Adversarial-Networks/blob/main/clouds_epoch100.png)
 
