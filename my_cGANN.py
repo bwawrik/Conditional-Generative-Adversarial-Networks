@@ -73,7 +73,7 @@ class cGAN:
         self.name = name
         self.image_file = image_file
         self.multiple = 1
-        self.training_epochs = 110
+        self.training_epochs = 75
         self.input_image_WH = 100
     
     def getTrainingData (self):
